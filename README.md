@@ -1,8 +1,12 @@
-amazonsearch
-============
+Amazon Product Search
+=====================
 
-Amazon Product Search website based on angularJS+php, on top of Amazon Product Advertising API
+Amazon Product Search website based on Amazon Product Advertising API, built by angularJS+php
 
 Demo: http://sc2gogogo.no-ip.org/amazon/
 
-Source: https://github.com/Exeu/Amazon-ECS-PHP-Library 
+Source/Reference: 
+-----------------
+
+* http://aws.amazon.com/code/Product-Advertising-API/4373  
+* https://github.com/Exeu/Amazon-ECS-PHP-Library 
