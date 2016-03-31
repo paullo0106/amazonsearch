@@ -5,6 +5,8 @@ Amazon Product Search website based on Amazon Product Advertising API, built by 
 
 Demo: http://sc2gogogo.no-ip.org/amazon/
 
+![website layout](/search.png)
+
 Source/Reference: 
 -----------------
 
