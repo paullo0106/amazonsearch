@@ -5,7 +5,7 @@ require_once 'includes/AmazonECS.class.php';
 // personal API key
 define("API_KEY", "......");  // replace with correct API Key
 define("SECRET_KEY", "......");  // replace with correct secret key
-define("ASSOCIATE_TAG", "tecblo035-20"); // a0b8a8-20 is deprecated
+define("ASSOCIATE_TAG", "paullo0106-20");
 
 /*
  * Get top sellers, this can be invoked when users first enter our page and haven't started to search anything
