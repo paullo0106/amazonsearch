@@ -4,6 +4,7 @@ Amazon Product Search
 Amazon Product Search website based on Amazon Product Advertising API, built by angularJS+php with quick and simple MVC architecture.
 
 Demo: http://sc2gogogo.no-ip.org/amazon/
+Influencer site: https://amazon.com/shop/clanrush
 
 ![website layout](/search.png)
 
